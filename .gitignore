@@ -1,0 +1,4 @@
+.env
+fitness_bot.db
+__pycache__/
+.venv/
